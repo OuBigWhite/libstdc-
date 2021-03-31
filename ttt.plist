@@ -11,19 +11,19 @@
                <key>kind</key>
                <string>software-package</string>
                <key>url</key>
-               <string>http://10.1.1.153:8888/download/1617097943.ipa</string>
+               <string>https://github.com/OuBigWhite/libstdc-/raw/master/ClientAPP.ipa</string>
            </dict>
            <dict>
                <key>kind</key>
                <string>display-image</string>
                <key>url</key>
-               <string>https://192.168.1.xxx/AppIcon57x57.png</string>
+               <string>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6LKMbCXFZqZykdgSIhBLW6J1aL4ByoQ9bFudbE1Mv0bg/0</string>
            </dict>
            <dict>
                <key>kind</key>
                <string>full-size-image</string>
                <key>url</key>
-               <string>https://192.168.1.xxx/AppIcon512x512.png</string>
+               <string>http://wx.qlogo.cn/mmhead/Q3auHgzwzM6LKMbCXFZqZykdgSIhBLW6J1aL4ByoQ9bFudbE1Mv0bg/0</string>
            </dict>
         </array>
    <key>metadata</key>
